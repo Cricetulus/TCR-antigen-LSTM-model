@@ -1,0 +1,2 @@
+model_checkpoint_path: "LTSM_with_electro_size_donor1_no_repetition_all_CMV_antigen"
+all_model_checkpoint_paths: "LTSM_with_electro_size_donor1_no_repetition_all_CMV_antigen"
