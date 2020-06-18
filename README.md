@@ -1,5 +1,5 @@
 # TCR-antigen-LSTM-model
-All those ipynb files are largely similar, but modified for different purposes as the file name decribed.TCR-antigen bi LTSM RNN trained with donor 1 CMV final.ipynb has the most detailed explanation for codes. The python script takes the data vdj_v1_hs_aggregated_donor#_binarized_matrix.csv, blosum.txt, and the saved model file in the checkpoint folder as the input.
+All those ipynb files are largely similar, but modified for different purposes as the file name decribed.TCR-antigen bi LTSM RNN trained with donor 1 CMV final.ipynb has the most detailed explanation for codes. The python script takes the data vdj_v1_hs_aggregated_donor#_binarized_matrix.csv, blosum.txt, and the saved model file in the checkpoint folder as the input. The bindarized matrix data can be found it the zip file and please unzip it to use.
 
 # training with CMV antigens
 TCR-antigen bi LTSM RNN trained with donor 1 CMV final.ipynb contains the python script to train the model using donor 1 data with CMV antigens only. 
