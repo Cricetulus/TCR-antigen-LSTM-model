@@ -16,7 +16,7 @@ TCR-antigen bi LTSM RNN test with donor 2 -all antigen.ipynb includes the testin
 
 The best model is 'LTSM_with_electro_size_donor1_no_repetition_all_CMV_antigen_complex_form_trained_with_all_data'
 # custom training and testing template
-I also generated the scripts for customized combinations of MHC and antigen types to train and test.
-TCR-antigen bi LTSM RNN trained with donor 1 Template training.ipynb and TCR-antigen bi LTSM RNN test with differenet donor Template.ipynb
+I also generated the scripts for customized combinations of MHC and antigen types to train and test.The files are
+### TCR-antigen bi LTSM RNN trained with donor 1 Template training.ipynb and TCR-antigen bi LTSM RNN test with differenet donor Template.ipynb
 This script allows to compare the model specific to one kind of antigens or the MHC with the model trained with all data.
 Please put the MHC and antigen choices in the first coding cell in the script. Please also paste the optimal threshold value from the training script when use the testing script.
