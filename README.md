@@ -5,6 +5,8 @@ TCR-antigen bi LTSM RNN test with donor 2-4-CMV.ipynb contains the python script
 
 Checkpoints folder contains all the historical model I have used and tested.
 
-The best one so far is 'LTSM_with_electro_size_donor1_no_repetition_all_CMV_antigen_complex_form' for CMV
+The best one so far is 'LTSM_with_electro_size_donor1_no_repetition_all_CMV_antigen_complex_form' for CMV.
 
 Futhermore, I also trained data with all the antigens with the same model architecture.
+TCR-antigen bi LTSM RNN trained with donor 1-all antigen.ipynb includes the training and testing with donor 1 data.
+TCR-antigen bi LTSM RNN test with donor 2 -all antigen.ipynb includes the testing result on all antigens from donor 2 data by using the model trained with all antigens.
