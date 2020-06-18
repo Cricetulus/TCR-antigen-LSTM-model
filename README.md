@@ -21,5 +21,5 @@ I also generated the scripts for customized combinations of MHC and antigen type
 The files are:
 TCR-antigen bi LTSM RNN trained with donor 1 Template training.ipynb and TCR-antigen bi LTSM RNN test with differenet donor Template.ipynb
 
-This script allows to compare the model specific to one kind of antigens or the MHC with the model trained with all data.
+This script allows to compare the model specific to the antigens from one disease or the MHC with the generalized model trained with all data.
 Please put the MHC and antigen choices in the first coding cell in the script. Please also paste the optimal threshold value from the training script when use the testing script.
