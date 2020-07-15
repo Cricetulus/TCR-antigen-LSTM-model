@@ -23,3 +23,5 @@ TCR-antigen bi LTSM RNN trained with donor 1 Template training.ipynb and TCR-ant
 
 These scripts allow you to compare the model specific to the antigens from one disease or the MHC with the generalized model trained with all data.
 Please put the MHC and antigen choices in the first coding cell in the script. Please also paste the optimal threshold value from the training script when use the testing script.
+# Updated script
+Later on, I found the model can use a shortcut to get good performance without taking into TCR sequences into considerations. I resolved this issue in 'TCR Antigen binding balanced prediction CMV antigen vj genes more features Backup.ipynb'.
